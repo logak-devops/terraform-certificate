@@ -1,3 +1,17 @@
 # terraform-certificate
 
-![image](https://user-images.githubusercontent.com/84037413/125129705-c7e2b700-e0f7-11eb-87d0-040d4a47a8ba.png)
+# Terraform Basic:
+
+* Code in the Terraform language is stored
+in plain text files with the .tf file
+extension.
+
+* There is also a JSON-based variant of
+the language that is named with
+the .tf.json file extension.
+
+* We can call the files containing
+terraform code as Terraform
+Configuration Files or Terraform
+Manifests
+
