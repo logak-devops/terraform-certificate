@@ -1,6 +1,6 @@
 # terraform-certificate
 
-# Terraform Basic:
+# Terraform Language Basic:
 
 * Code in the Terraform language is stored
 in plain text files with the .tf file
